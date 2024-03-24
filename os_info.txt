@@ -1,0 +1,4 @@
+
+Hostname: Legion Y540
+Platform: win32
+CPU Cores: 8
